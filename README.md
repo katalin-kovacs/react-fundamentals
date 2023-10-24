@@ -1,3 +1,22 @@
+# Summary 
+- React Course Generator App
+- Functional components
+- React hooks
+- Used eslint, prettier and pre-commit hook
+- Clone backend repo
+## Tech stack
+- JavaScript
+- ReactJS
+- Redux
+- Bootstrap 5
+- React router v6
+## Tools
+- VS Code
+- React Dev Tools
+- Redux Dev Tools
+- Git
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
