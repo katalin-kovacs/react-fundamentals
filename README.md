@@ -1,9 +1,5 @@
-# Summary 
-- React Course Generator App
-- Functional components
-- React hooks
-- Used eslint, prettier and pre-commit hook
-- Clone backend repo
+# Description
+React Course Generator App | Functional components | React hooks | Used eslint, prettier and pre-commit hook | Clone backend repo
 ## Tech stack
 - JavaScript
 - ReactJS
